@@ -1,0 +1,19 @@
+
+                                                module 1
+
+
+
+Q.(1) Are the HTML tags and elements the same thing ?
+=> In HTML, a tag is a piece of code that identifies a particular type of element, while an element refers to the entire construct that includes the opening tag, content, and closing tag.
+ Q.(2) What are tags and attributes in HTML ?
+=> Tag and Attribute is that a tag is a way of representing an HTML element in the program, while an attribute is a way of describing the characteristics of an HTML element.
+ Q.(3) What are void elements in HTML ? 
+=> A void element, also known as an empty element or a self-closing element, is an HTML element that does not have a closing tag. Void elements are used to insert content, such as images, input fields, line breaks, or other types of media, into a web page.
+ Q.(4) What are HTML Entities ? 
+=> An HTML entity is a piece of text ("string") that begins with an ampersand ( & ) and ends with a semicolon ( ; ). HTML Entities use for display reserved characters.
+ Q.(5) What are different types of lists in HTML?
+=> What is the ‘class’ attribute in HTML ? => In HTML, there are three main types of lists: Ordered lists , Unordered lists , Description lists In HTML, the “class” attribute is used to assign one or more classes to an HTML element. A class is a named group of elements that share common properties and styles.
+ Q.(6) What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements? 
+=> The id attribute is used to identify a unique element in the HTML document , while the class attribute is used to identify a group of elements 
+Q.(7) What are the various formatting tags in HTML ? 
+=> The formatting can be used to set the text styles 
